@@ -53,10 +53,6 @@ Sono un **Full Stack Developer** in formazione con una mentalità da "eterno stu
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/Nicolo-Salvafiorita/Nicolo-Salvafiorita/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
 ---
 
 <div align="center">
