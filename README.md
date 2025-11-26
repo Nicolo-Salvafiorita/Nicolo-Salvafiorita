@@ -1,14 +1,16 @@
-💻 **Full Stack Developer | Engineering & Architecture** 🏗️
+💻 **Full Stack Developer | ITS Student & Creative Problem Solver** 🚀
 
-👋 Sono un ingegnere del software specializzato nello stack moderno web. Il mio obiettivo professionale è costruire applicazioni resilienti che scalano con il business 📈, mantenendo un'esperienza utente impeccabile ✨.
+👋 Ciao, sono Nicolò! Sono un Full Stack Developer in formazione presso l'ITS Tech Talent Factory. Mi definisco un "eterno studente" 📚: la mia curiosità mi spinge a imparare costantemente nuove tecnologie e ad adattarmi ai cambiamenti per trasformare idee complesse in software robusti.
 
 🛠️ **Cosa faccio:**
 
-* ⚙️ **Backend & Architettura:** Progetto la logica di business e l'infrastruttura server-side. Mi occupo della progettazione di database relazionali e non relazionali 🗄️, ottimizzazione delle query e creazione di API RESTful e GraphQL performanti 🔌. La sicurezza 🔒 e la scalabilità sono le mie priorità numero uno.
+* 🎨 **Frontend & UI:** Sviluppo interfacce utente intuitive e reattive utilizzando **HTML, CSS, JavaScript e React** ⚛️. Nei miei progetti recenti, come l'App "Syndico", ho curato l'ottimizzazione del design per la SEO e le performance web, assicurando un'esperienza utente fluida ✨.
 
-* 🎨 **Frontend & UX:** Trasformo i design in codice pixel-perfect. Sono specializzato nella creazione di Single Page Applications (SPA) reattive e accessibili 📱, con un focus particolare sulle performance di caricamento ⚡ e sull'interattività lato client.
+* ⚙️ **Backend & Coding:** Ho una solida base logica costruita su linguaggi come **Java, Python, PHP e C**. Mi occupo della gestione dei flussi di dati e della manutenzione di componenti backend, muovendomi con agilità in ambienti **Linux/Ubuntu** 🐧.
 
-* 🚀 **DevOps & Tooling:** Credo nell'automazione. Gestisco il deployment delle mie applicazioni tramite containerizzazione 🐳 e pipeline di integrazione continua 🔄, assicurando che il passaggio dallo sviluppo alla produzione sia fluido e privo di errori.
+* 🤝 **Metodologia & Teamwork:** Credo fermamente nel lavoro di squadra. Utilizzo **Git** per il controllo versione e applico metodologie **Agile/Scrum** per gestire i progetti in modo efficiente 🔄. La mia esperienza nel supporto digitale e nel coding mi ha insegnato a comunicare efficacemente con designer e clienti 🗣️.
 
 💡 **La mia filosofia:**
-Credo che il software di qualità nasca dall'equilibrio tra eccellenza tecnica e comprensione delle esigenze del prodotto ⚖️. Mi piace lavorare in team agili 🤝, dove la comunicazione è trasparente e l'obiettivo comune è consegnare valore reale all'utente finale 🎯.
+
+Affronto lo sviluppo software come una parete da scalare: con **costanza, concentrazione e determinazione** 🧗 (una mentalità forgiata in 8 anni di arrampicata sportiva!).
+Non cerco solo di scrivere codice, ma di pensare fuori dagli schemi 🧠 per creare soluzioni innovative che abbiano un impatto reale, etico e positivo sulla società, valore che ho approfondito partecipando al progetto "Off Campus" del Politecnico 🌍.
