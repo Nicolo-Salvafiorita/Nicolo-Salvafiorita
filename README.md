@@ -45,12 +45,6 @@ Sono un **Full Stack Developer** in formazione con una mentalità da "eterno stu
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolo-Salvafiorita&theme=tokyonight" />
-</div>
-
 <br/>
 
 ---
